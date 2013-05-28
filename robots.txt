@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://krnekhelesh.github.io/ubuntu-touch/sitemap.xml 
